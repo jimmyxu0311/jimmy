@@ -3,8 +3,3 @@ hello jimmy
 hello xujun
 
 
-
-hi
-
-
-hao
