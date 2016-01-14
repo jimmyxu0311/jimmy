@@ -5,7 +5,9 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-
+/**
+ *this is discription
+*/
 public class MainActivity extends Activity {
 
     @Override
